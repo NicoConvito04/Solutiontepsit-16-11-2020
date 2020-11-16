@@ -6,7 +6,7 @@ namespace prgTepsit
     {
         static void Main(string[] args)
         {
-            C
+            
         }
     }
 }

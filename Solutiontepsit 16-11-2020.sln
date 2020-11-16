@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prgTepsit", "prgTepsit\prgTepsit.csproj", "{534D5FD6-4048-4CE0-88C0-2EDCC74EEBE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codiceAscii", "prgTepsit\codiceAscii.csproj", "{534D5FD6-4048-4CE0-88C0-2EDCC74EEBE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
